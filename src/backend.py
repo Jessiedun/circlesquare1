@@ -2,10 +2,10 @@ def getName(playerNames):
     return playerNames
 
 def Scores(playerNames):
-    playerScores = []
+    playerScores = {}
     for name in getName(playerNames):
         name.split(" ")
-        playerScores.append(name)
+        playerScores[name] = "score"
     return playerScores
 
 # def checkForFive():
