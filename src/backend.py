@@ -15,6 +15,3 @@ def checkForFive():
 
 playerNames = ["Justin", "Justin", "Melinda", "Sighnda"]
 print(Scores(playerNames))
-
-
-
