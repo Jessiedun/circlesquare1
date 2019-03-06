@@ -15,6 +15,3 @@ def Scores(playerNames):
 
 playerNames = ["Justin", "Justin", "Melinda", "Sighnda"]
 print(Scores(playerNames))
-
-
-
